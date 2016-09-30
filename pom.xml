@@ -27,9 +27,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:Graylog2/graylog-plugin-map-widget.git</connection>
-        <developerConnection>scm:git:git@github.com:Graylog2/graylog-plugin-map-widget.git</developerConnection>
-        <url>https://github.com/Graylog2/graylog-plugin-map-widget</url>
+        <connection>scm:git:git@github.com:bernd/graylog-plugin-map-widget.git</connection>
+        <developerConnection>scm:git:git@github.com:bernd/graylog-plugin-map-widget.git</developerConnection>
+        <url>https://github.com/bernd/graylog-plugin-map-widget</url>
         <tag>HEAD</tag>
     </scm>
 
