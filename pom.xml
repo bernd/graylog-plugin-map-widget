@@ -12,6 +12,7 @@
         <relativePath>../graylog2-server/graylog-plugin-web-parent</relativePath>
     </parent>
 
+    <groupId>org.graylog.plugins</groupId>
     <artifactId>graylog-plugin-map-widget</artifactId>
     <version>1.2.0-SNAPSHOT</version>
     <packaging>jar</packaging>
